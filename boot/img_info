@@ -1,0 +1,9 @@
+kernel=kernel
+ramdisk=ramdisk
+page_size=4096
+kernel_size=42144256
+ramdisk_size=9665846
+base_addr=0xffffffffffff8000
+os_version=11.0.0
+os_patch_level=2026:5
+cmd_line=''
